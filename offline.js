@@ -74,6 +74,8 @@
 		"media/playerheal.ogg",
 		"media/gasterblast2.ogg",
 		"media/mus_zz_megalovania.ogg",
+		"media/mus_zz_songthatmightplay.ogg",
+		"media/mus_zz_thechoice.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
