@@ -11,7 +11,7 @@ Play any of the sounds (e.g. "Flash")
 * SoundName
 
 ### Music ###
-Play music. Currently, only "mus_zz_megalovania" works
+Play [music](Documentation/music.md)
 
 * MusicName
 
